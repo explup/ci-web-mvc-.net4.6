@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ci-web-mvc-.net4.6", "ci-web-mvc-.net4.6\ci-web-mvc-.net4.6.csproj", "{0663F6CF-4B73-4FB9-8A89-2F6D124DEDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ci-web-mvc-.net4.6.Tests", "ci-web-mvc-.net4.6.Tests\ci-web-mvc-.net4.6.Tests.csproj", "{10845DB6-D251-48E5-AE95-102079905CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0663F6CF-4B73-4FB9-8A89-2F6D124DEDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0663F6CF-4B73-4FB9-8A89-2F6D124DEDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0663F6CF-4B73-4FB9-8A89-2F6D124DEDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0663F6CF-4B73-4FB9-8A89-2F6D124DEDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10845DB6-D251-48E5-AE95-102079905CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10845DB6-D251-48E5-AE95-102079905CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10845DB6-D251-48E5-AE95-102079905CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10845DB6-D251-48E5-AE95-102079905CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8039F192-9C6E-4DC4-B002-6D1675B6BCE3}
+	EndGlobalSection
+EndGlobal

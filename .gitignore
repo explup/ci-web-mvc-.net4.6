@@ -7,6 +7,7 @@
 /.vs
 /ci-web-mvc-.net4.6/bin
 /ci-web-mvc-.net4.6/obj/Debug
+/ci-web-mvc-.net4.6/obj/Scripts
 /ci-web-mvc-.net4.6/ci-web-mvc-.net4.6.csproj.user
 /ci-web-mvc-.net4.6.Tests/bin/Debug
 /ci-web-mvc-.net4.6.Tests/obj/Debug
